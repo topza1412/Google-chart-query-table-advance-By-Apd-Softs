@@ -1,6 +1,6 @@
 # Google-chart-query-table-advance-By-Apd-Softs
 
-Helper for report chart develop by Apidate
+Helper for report chart develop by Apd Softs
 
 Setup program Step by step
 
